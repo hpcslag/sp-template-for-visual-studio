@@ -12,3 +12,7 @@
 ```
 devenv.exe /Resetuserdata
 ```
+
+# 注意事項
+
+當你啟動一個範本，可能會跳錯找不到參考，這時候請自行手動指定位置到 `xxxx\SharpDevelop-5.0.0\bin` Sharpdevelop 的 `bin` 目錄。
